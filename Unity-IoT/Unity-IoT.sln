@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-IoT.CSharp", "Unity-IoT.CSharp.csproj", "{C7293ED9-AA41-C221-0132-3FD51481660A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7293ED9-AA41-C221-0132-3FD51481660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7293ED9-AA41-C221-0132-3FD51481660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7293ED9-AA41-C221-0132-3FD51481660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7293ED9-AA41-C221-0132-3FD51481660A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
